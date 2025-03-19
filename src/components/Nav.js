@@ -1,11 +1,12 @@
 import React from 'react'
 
-function hero() {
+function Nav() {
   return (
     <div>
-    frontend wala
+        navbar
+      
     </div>
   )
 }
 
-export default hero
+export default Nav
