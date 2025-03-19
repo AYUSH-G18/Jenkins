@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Nav/> <h1>Hii</h1>
-    Hello Developer
+    Hello Developer, how are uh all 
     hi
     
     </div>
