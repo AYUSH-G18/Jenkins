@@ -3,7 +3,7 @@ import React from 'react'
 function hero() {
   return (
     <div>
-    frontend 
+    frontend wala
     </div>
   )
 }
